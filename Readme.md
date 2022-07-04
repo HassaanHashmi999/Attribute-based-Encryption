@@ -1,4 +1,4 @@
-# Encrption and Security Syestem
+# Encryption/Decryption and Security Syestem
 
 
 1. An Attribute Authority (AA) who assigns attributes to users, and maintains them in a
